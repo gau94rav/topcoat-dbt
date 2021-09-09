@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Topcoat</title>
+
+    <!-- Snowplow starts plowing -->
+    <!--script type="text/javascript">
+    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+    p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://dr90ucazndxfc.cloudfront.net/3.1.2/xyiggjrx.js","snowplow"));
+    
+    window.snowplow('newTracker', 'topcoat-js', 'com-topcoatdata-prod1.collector.snplow.net', {
+      appId: 'builder',
+      discoverRootDomain: true,
+      cookieSameSite: 'Lax',
+      contexts: {
+          performanceTiming: true
+      }
+    });
+    
+    window.snowplow('enableActivityTracking', { 
+      minimumVisitLength: 30, 
+      heartbeatDelay: 30 
+    });
+    window.snowplow('setUserId', 'test@topcoatdata.com');
+    window.snowplow('enableLinkClickTracking');
+    window.snowplow('trackPageView');
+    
+    </script-->
+    <!-- Snowplow stop plowing -->
+  </head>
+  <body>
+  	<script>
+  		const static_url = "/dist/";
+      const app_mode = 'wld';
+      const front_end_title = "Topcoat";
+  	</script>
+    <div id="app"></div>
+    <script src="/dist/build.js"></script>
+  </body>
+</html>

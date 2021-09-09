@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #e9c46a;
+      }
+    </style>
+  </defs>
+  <g id="folder" transform="translate(2 4)">
+    <g id="Rounded" transform="translate(-2 -4)">
+      <g id="File" transform="translate(0 0)">
+        <g id="_-Round-_-File-_-folder" data-name="-Round-/-File-/-folder">
+          <g id="Group_5296" data-name="Group 5296">
+            <path id="Path" class="cls-1" d="M0,0H20V20H0Z"/>
+            <path id="_-Icon-Color" data-name="🔹-Icon-Color" class="cls-2" d="M9.158,4.492A1.672,1.672,0,0,0,7.975,4H3.667A1.664,1.664,0,0,0,2.008,5.667L2,15.667a1.672,1.672,0,0,0,1.667,1.667H17a1.672,1.672,0,0,0,1.667-1.667V7.333A1.672,1.672,0,0,0,17,5.667H10.333Z" transform="translate(-0.333 -0.667)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="DAG" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1625" data-name="Rectangle 1625" class="cls-1" width="5.854" height="0.552" transform="translate(8.572 2.516)"/>
+  <rect id="Rectangle_1626" data-name="Rectangle 1626" class="cls-1" width="5.854" height="0.552" transform="translate(8.572 4.54)"/>
+  <path id="Path_9948" data-name="Path 9948" class="cls-1" d="M22.584,56.508a.508.508,0,0,0,.5-.514V53.77H36.562v2.224a.5.5,0,1,0,1,0V53.256a.508.508,0,0,0-.5-.514H30.342V50.517a.5.5,0,1,0-1,0v2.224H22.584a.508.508,0,0,0-.5.514v2.738A.508.508,0,0,0,22.584,56.508Z" transform="translate(-18.323 -41.164)"/>
+  <path id="Path_9949" data-name="Path 9949" class="cls-1" d="M7.708,91.946H5.4a3.134,3.134,0,1,0,0,6.267H7.708a3.134,3.134,0,1,0,0-6.267Z" transform="translate(-2.265 -75.214)"/>
+  <path id="Path_9950" data-name="Path 9950" class="cls-1" d="M85.977,91.946H83.668a3.134,3.134,0,1,0,0,6.267h2.309a3.134,3.134,0,1,0,0-6.267Z" transform="translate(-66.11 -75.214)"/>
+  <path id="Path_9951" data-name="Path 9951" class="cls-1" d="M45.691,3.019H34.5v7.637h11.2ZM44.22,9.185H35.967V4.49H44.22Z" transform="translate(-28.594 -3.019)"/>
+</svg>

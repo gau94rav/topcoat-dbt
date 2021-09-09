@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.499" height="28" viewBox="0 0 27.499 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="git" transform="translate(0.499)">
+    <g id="Ellipse_821">
+      <g id="Group_5527" data-name="Group 5527">
+        <circle id="Ellipse_839" data-name="Ellipse 839" class="cls-1" cx="4" cy="4" r="4" transform="translate(-0.499)"/>
+      </g>
+      <g id="Group_5528" data-name="Group 5528">
+        <path id="Path_10285" data-name="Path 10285" class="cls-2" d="M-66.1-386a4.012,4.012,0,0,1-4-4,4.012,4.012,0,0,1,4-4,4.012,4.012,0,0,1,4,4A4.012,4.012,0,0,1-66.1-386Zm0-6a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2A2.006,2.006,0,0,0-66.1-392Z" transform="translate(70.1 394)"/>
+      </g>
+    </g>
+    <g id="Ellipse_822" transform="translate(19 9)">
+      <g id="Group_5529" data-name="Group 5529">
+        <circle id="Ellipse_840" data-name="Ellipse 840" class="cls-1" cx="4" cy="4" r="4" transform="translate(-0.499)"/>
+      </g>
+      <g id="Group_5530" data-name="Group 5530">
+        <path id="Path_10286" data-name="Path 10286" class="cls-2" d="M-66.1-386a4.012,4.012,0,0,1-4-4,4.012,4.012,0,0,1,4-4,4.012,4.012,0,0,1,4,4A4.012,4.012,0,0,1-66.1-386Zm0-6a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2A2.006,2.006,0,0,0-66.1-392Z" transform="translate(70.1 394)"/>
+      </g>
+    </g>
+    <g id="Ellipse_823" transform="translate(19 20)">
+      <g id="Group_5531" data-name="Group 5531">
+        <circle id="Ellipse_841" data-name="Ellipse 841" class="cls-1" cx="4" cy="4" r="4" transform="translate(-0.499)"/>
+      </g>
+      <g id="Group_5532" data-name="Group 5532">
+        <path id="Path_10287" data-name="Path 10287" class="cls-2" d="M-66.1-386a4.012,4.012,0,0,1-4-4,4.012,4.012,0,0,1,4-4,4.012,4.012,0,0,1,4,4A4.012,4.012,0,0,1-66.1-386Zm0-6a2.006,2.006,0,0,0-2,2,2.006,2.006,0,0,0,2,2,2.006,2.006,0,0,0,2-2A2.006,2.006,0,0,0-66.1-392Z" transform="translate(70.1 394)"/>
+      </g>
+    </g>
+    <path id="Path_10288" data-name="Path 10288" class="cls-2" d="M-33.9,35.9a27.145,27.145,0,0,1-5.7,0h-.3a2.189,2.189,0,0,1-1.4-.8,2.276,2.276,0,0,1-.4-1.6V27.6h7.3v-2h-7.3V20.2A3.926,3.926,0,0,0-43,17.1c-1.7-1.4-4.3-1.1-4.9-1l.2,1v1h.2c.8-.1,2.4-.2,3.2.5a1.969,1.969,0,0,1,.6,1.6V33.3a4.052,4.052,0,0,0,.8,3,3.847,3.847,0,0,0,2.7,1.6h.4c1,.1,2,.1,3,.1s2,0,3-.1Z" transform="translate(54.1 -13)"/>
+  </g>
+</svg>
