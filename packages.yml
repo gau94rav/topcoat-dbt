@@ -1,0 +1,4 @@
+#packages:
+#  - git: git@github.com:Hashpath/topcoat_demo.git
+#    warn-unpinned: false
+#    revision: seth_demo

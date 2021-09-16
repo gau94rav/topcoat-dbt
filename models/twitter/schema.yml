@@ -1,0 +1,14 @@
+
+version: 2
+
+models:
+    - name: unique_public_metrics
+      description: "All Tweets with Public Metrics"
+      columns:
+          - name: id
+            description: "The primary key for this table"
+            tests:
+                - unique
+                - not_null
+
+    

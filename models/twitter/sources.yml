@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: twitter
+    tables:
+      - name: public_metrics
+      - name: non_public_organic_metrics
+
